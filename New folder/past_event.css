@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(247, 246, 245, 0.849);
+}
+.left-content{
+    margin-left: 25px;
+}
+button{
+    width: 142px;
+}
+.btn-group{
+    /* border: blue; */
+}
+.season{
+    padding-top: 27px;
+}
+.content-mid{
+    padding-left: 30px;
+}
+.row content{ scroll-padding-top: 100px;
+
+}
